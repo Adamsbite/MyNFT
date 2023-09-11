@@ -1,0 +1,15 @@
+{
+  "name": "MrBiteNFT",
+  "description": "This is an awesome NFT of myself  created using OpenZeppelin and Pinata.",
+  "image": "QmVQGuKtaDGt285BMoqXzc8s6Z1tFpvxPFXcD8ELbmfiDG",
+  "attributes": [
+    {
+      "trait_type": "Rarity",
+      "value": "Legendary"
+    },
+    {
+      "trait_type": "Edition",
+      "value": "1 of 10"
+    }
+  ]
+}
